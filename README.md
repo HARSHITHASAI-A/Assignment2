@@ -4,10 +4,10 @@
 ### Webpage of Vecta Corporation
    #### Title : **VECTA CORPORATION**
     _Contents in the page_
-        * Home
-        * About Us
-        * Solutions
-        * Contact Us
+   * Home
+   * About Us
+   * Solutions
+   * Contact Us
 #### Overview of each tab or content in the page
 
 **Home**
