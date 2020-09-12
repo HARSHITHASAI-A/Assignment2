@@ -3,7 +3,7 @@
 
 ### Webpage of Vecta Corporation
    #### Title : **VECTA CORPORATION**
-    **Contents in the page**
+   **Contents in the page**
    * Home
    * About Us
    * Solutions
@@ -21,13 +21,13 @@
   The clients with whom Vecta Corporation had been working since years.
 
 **About Us**
-  > This page gives information about Vecta Corporation like
-     * Company Overview
-        > How are the approaches to different issues by the company.
-        > How they effectively find the solutions
-     * Management Team
+  #### This page gives information about Vecta Corporation like
+   * Company Overview
+        * How are the approaches to different issues by the company.
+        * How they effectively find the solutions
+   * Management Team
         > It contains details obout the higher officials in the Vecta Corporation along with their images and how they served Vecta Corp.
-    * Careers
+   * Careers
        > The future of the Corp how they are going to expect the join of more people into their network.
 
    **Solutions**
