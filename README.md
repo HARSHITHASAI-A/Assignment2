@@ -3,7 +3,7 @@
 
 ### Webpage of Vecta Corporation
    #### Title : **VECTA CORPORATION**
-    _Contents in the page_
+    **Contents in the page**
    * Home
    * About Us
    * Solutions
@@ -14,9 +14,9 @@
  * **Welcome**
    Something about the Vecta Corporation page how it maintains and manages the business.
  * **Our Solutions**
-         * vProspect 2.0
-         * vConvert 2.0
-         * vRetain 2.0
+     * vProspect 2.0
+     * vConvert 2.0
+     * vRetain 2.0
  * **Client Testimonials**
   The clients with whom Vecta Corporation had been working since years.
 
