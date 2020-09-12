@@ -35,6 +35,13 @@
 
    **Contact Us**
    > Contains the address and the Phone number of the Vecta Corp HeadQuarters.
+   
+   **Using the Web page**
+   > Open **index.html** then you can view original webpage, then you can navigate to certain tabs required like Home which is _index.html_ itself and **About Us** which is navigated by _aboutus.html_
+   > Similarly for **Solutions** it is _solutions.html_ and for **Contact Us** it is contactus.html
+   
+ ### Need to know further details about the webpage Visit [**_Vecta Corp_** ](https://acw-group.com.hk/acw_distribution/events/VectaCorp/aboutus.htm)
+
      
     
 
